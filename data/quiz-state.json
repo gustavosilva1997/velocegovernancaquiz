@@ -10,5 +10,7 @@
   },
   "questionsPt": null,
   "questionsEs": null,
+  "finishedRounds": {},
+  "statEvents": {},
   "updatedAt": null
 }
