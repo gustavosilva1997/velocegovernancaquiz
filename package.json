@@ -1,0 +1,12 @@
+{
+  "name": "quiz-governanca-veloce-shared",
+  "version": "1.2.0",
+  "private": true,
+  "description": "Plataforma bilíngue com logotipo Veloce, API com suporte a subcaminho e reset individual de rodada",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
