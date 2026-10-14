@@ -1,0 +1,20 @@
+{
+  "initialized": false,
+  "users": null,
+  "scores": {},
+  "times": {},
+  "attempts": {},
+  "qstats": {},
+  "campaign": {
+    "start": "",
+    "end": ""
+  },
+  "questionsPt": null,
+  "questionsEs": null,
+  "finishedRounds": {},
+  "statEvents": {},
+  "dailyResetVersion": 0,
+  "resetVersion": 0,
+  "updatedAt": null,
+  "userResetVersions": {}
+}
