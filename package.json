@@ -1,9 +1,0 @@
-{
-  "name": "quiz-governanca-veloce-shared",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Plataforma bil\u00edngue com armazenamento centralizado",
-  "scripts": {
-    "start": "node server.js"
-  }
-}
