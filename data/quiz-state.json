@@ -1,0 +1,16 @@
+{
+  "initialized": false,
+  "users": null,
+  "scores": {},
+  "attempts": {},
+  "qstats": {},
+  "campaign": {
+    "start": "2026-10-01",
+    "end": "2026-10-04"
+  },
+  "questionsPt": null,
+  "questionsEs": null,
+  "finishedRounds": {},
+  "statEvents": {},
+  "updatedAt": null
+}
